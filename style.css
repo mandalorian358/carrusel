@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+}
+
+#app {
+    background-color: aqua;
+}
+
+#game {
+    background-color: coral;
+}
+
+#chatbot {
+    background-color: gold;
+}
+
+img {
+    width: 250px;
+}
+
+#myCarousel {
+    background-color: coral;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
